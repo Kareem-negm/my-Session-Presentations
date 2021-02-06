@@ -1,0 +1,76 @@
+The Magic Behind Google Translate: Sequence-to-Sequence Models and TensorFlow
+https://www.altoros.com/blog/the-magic-behind-google-translate-sequence-to-sequence-models-and-tensorflow/
+--------------------------------------------------------
+Installing TensorFlow 2.0, Keras, & Python 3.7 in Windows 10
+https://youtu.be/RgO8BBNGB8w
+------------------------------------------
+Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?
+https://www.pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/
+-------------------------------------------
+Tensorflow 
+https://www.tensorflow.org/
+
+---------------------------------
+10 Best Tensorflow Courses & Certification [2021]
+
+1. TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)
+2. Tensorflow Deep Learning Certification Course (Coursera)
+3. TensorFlow in Practice Specialization (Coursera)
+4. TensorFlow Data and Deployment Specialization (Coursera)
+5. Advanced Machine Learning with TensorFlow (Coursera)
+6. Machine Learning with TensorFlow by AWS / Kaggle (Udacity)
+7. Machine Learning with TensorFlow on Google Cloud Platform (Coursera)
+8. Complete Guide to Tensorflow for Deep Learning with Python (Udemy)
+9. Deep Learning with Tensorflow (edX)
+10. Free Tensorflow Tutorials & Courses (LinkedIn Learning)
+11. Tensorflow Tutorials Online (Pluralsight)
+12. TensorFlow for Deep Learning by TensorFlow (Udacity)
+----------------------------------------------------------
+10 Best TensorFlow Books (2021 Update)
+
+1) Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models with Python
+
+2) Advanced Deep Learning with TensorFlow 2 and Keras
+
+3) Tensorflow in 1 Day
+
+4) TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers
+
+5) Natural Language Processing with TensorFlow
+
+6) TensorFlow Machine Learning Projects
+
+7) Hands-On Computer Vision with TensorFlow 2
+
+8) Pro Deep Learning with TensorFlow
+
+9) Practical Deep Learning for Cloud, Mobile, and Edge
+
+10) Deep Learning: A Practitioner's Approach
+-------------------------------------------
+11 websites to find free interesting datasets
+
+1. FiveThirtyEight
+2. BuzzFeed News
+3. Kaggle
+4. Socrata
+5. Awesome-Public-Datasets on Github
+6. Google Public Datasets
+7. UCI Machine Learning Repository
+8. Data.gov
+9. Academic Torrentsw article attributes and a target variable.
+10. Quandl
+11. Jeremy Singer-Vine
+
+------------------------------
+Awesome TensorFlow 
+https://github.com/jtoy/awesome-tensorflow
+-------------------------------------------
+follow me on :
+Facebbook:https://www.facebook.com/profile.php?id=100007776754182
+LinkedIn:https://www.linkedin.com/in/kareem-negm/
+Kaggle:https:https://www.kaggle.com/kareem3egm
+GitHub:https:https://github.com/Kareem-negm
+--------------------------------
+You can faind the presentation her
+https://github.com/Kareem-negm/my-Session-Presentations
